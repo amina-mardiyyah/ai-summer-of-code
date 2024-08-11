@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This repository is a fork from the original [AI Summer of Code](https://github.com/zion-king/ai-summer-of-code/), a program focused on building Large Language Model (LLM) applications. The program is hosted by Zion Pibowei, Head of Data Science and AI at Periculum. The program is a 4 week hands-on training in Large Language Models (LLMs) and Generative AI engineering. It features practical tutorials, workshops, and expert talks from experienced AI practitioners around the world.
 
